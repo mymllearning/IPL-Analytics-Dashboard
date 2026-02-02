@@ -259,5 +259,4 @@ with tab5:
     else:
         st.info("Not enough data for heatmap")
 
-st.markdown("---")
-st.markdown("Created with ❤️ by Antigravity")
+st.markdown("-)
