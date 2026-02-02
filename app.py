@@ -12,9 +12,9 @@ st.set_page_config(page_title="IPL Dashboard", layout="wide", page_icon="🏏")
 st.markdown("""
 <style>
     .stApp {
-        background-color: #0e1117;
-        color: #fafafa;
-    }
+    background-color: #121826;   /* deep navy-charcoal */
+    color: #e5e7eb;              /* soft off-white text */
+}
     .metric-card {
         background-color: #262730;
         padding: 20px;
