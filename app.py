@@ -40,8 +40,8 @@ st.markdown("""
 # --- Data Loading ---
 @st.cache_data
 def load_data():
-    matches = pd.read_csv("data/matches (1).csv")
-    deliveries = pd.read_csv("data/deliveries (2).csv")
+    matches = pd.read_csv("data/matches.csv")
+    deliveries = pd.read_csv("data/deliveries.csv")
     
     # Data Cleaning
     # Fix team names (e.g., Rising Pune Supergiant)

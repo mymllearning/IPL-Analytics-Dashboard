@@ -27,8 +27,8 @@ ipl-analytics-dashboard/
 ├── requirements.txt      # List of Python dependencies
 ├── .gitignore            # Git ignore file
 ├── data/                 # Directory containing dataset files
-│   ├── matches (1).csv   # Match-level data
-│   └── deliveries (2).csv # Ball-by-ball delivery data
+│   ├── matches.csv       # Match-level data
+│   └── deliveries.csv    # Ball-by-ball delivery data
 └── README.md             # Project documentation
 ```
 
@@ -54,8 +54,8 @@ Follow these steps to set up the project locally:
 
 4.  **Prepare Data**:
     Ensure you have the IPL datasets placed in the `data/` directory.
-    *   `data/matches (1).csv`
-    *   `data/deliveries (2).csv`
+    *   `data/matches.csv`
+    *   `data/deliveries.csv`
 
 ## 🏃 Usage
 
