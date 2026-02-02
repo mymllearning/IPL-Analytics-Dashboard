@@ -258,5 +258,3 @@ with tab5:
         st.plotly_chart(fig_heat, use_container_width=True)
     else:
         st.info("Not enough data for heatmap")
-
-st.markdown("-)
